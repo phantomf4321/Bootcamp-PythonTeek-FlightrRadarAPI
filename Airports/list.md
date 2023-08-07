@@ -1,4 +1,4 @@
-| City  | CIAO |
+| City  | ICAO |
 | ------------- | ------------- |
 | Tehran  | OIII  |
 | Tehran  | OIIE  |

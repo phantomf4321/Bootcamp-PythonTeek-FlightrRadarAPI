@@ -5,6 +5,13 @@
 
 # Bootcamp PythonTeek FlightrRadarAPI
 
+<center>
+  <p float="left">
+    <img src="https://s8.uupload.ir/files/screenshot_from_2023-06-14_09-36-28_22kz.png" height="200" />
+    <img src="https://s8.uupload.ir/files/screenshot_from_2023-06-14_09-31-19_iy1f.png" height="200" /> 
+  </p>
+</center>
+
 The GitHub bootcamp was organized to teach teenagers how to use this platform. We put this course project in this repository.
 
 ## Requirements

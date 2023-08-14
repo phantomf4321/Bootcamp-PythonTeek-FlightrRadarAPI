@@ -22,15 +22,14 @@ details = airport_details['airport']['pluginData']['details']
 position = airport_details['airport']['pluginData']['details']['position']
 airportImages = airport_details['airport']['pluginData']['details']['airportImages']
 
-'''
-Step1:
 
-name = ...
-country = ...
-city = ...
+# Step1:
+
+name = details['name']
+country = position['country']['name']
+city = position['region']['city']
 
 print("{} in: {} / {}".format(name, city, country))
-'''
 
 
 '''
